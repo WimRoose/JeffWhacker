@@ -1,11 +1,11 @@
 
 #include "Game.h"
-#include "Draggable.h"
+
 
 
 Game::Game() {
 
-    Draggable d;
+
     p[0] = new Plexi(25, 25);
     p[1] = new Plexi(225, 25);
     p[2] = new Plexi(425, 25);

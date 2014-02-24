@@ -36,12 +36,7 @@
 		<Unit filename="src/ControlRoom.h">
 			<Option virtualFolder="src/" />
 		</Unit>
-		<Unit filename="src/Draggable.cpp">
-			<Option virtualFolder="src/" />
-		</Unit>
-		<Unit filename="src/Draggable.h">
-			<Option virtualFolder="src/" />
-		</Unit>
+		
 		<Unit filename="src/Game.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>

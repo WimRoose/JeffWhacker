@@ -308,9 +308,7 @@ obj/linux64/Debug/src/Game.o: src/Game.cpp src/Game.h \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
  ../../../libs/openFrameworks/video/ofGstVideoPlayer.h \
  ../../../libs/openFrameworks/3d/ofCamera.h \
- ../../../libs/openFrameworks/3d/ofEasyCam.h src/Plexi.h src/Draggable.h \
- ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
- ../../../addons/ofxXmlSettings/libs/tinyxml.h
+ ../../../libs/openFrameworks/3d/ofEasyCam.h src/Plexi.h
 
 src/Game.h:
 
@@ -967,9 +965,3 @@ src/Game.h:
 ../../../libs/openFrameworks/3d/ofEasyCam.h:
 
 src/Plexi.h:
-
-src/Draggable.h:
-
-../../../addons/ofxXmlSettings/src/ofxXmlSettings.h:
-
-../../../addons/ofxXmlSettings/libs/tinyxml.h:
