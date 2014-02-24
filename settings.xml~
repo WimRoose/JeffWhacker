@@ -1,0 +1,8 @@
+<settings>
+    <plexi_1>
+	<x></x>
+	<y></y>
+    </plexi_1>
+    <gravity>9.8</gravity>
+    <sceneName>field</sceneName>
+</settings>
